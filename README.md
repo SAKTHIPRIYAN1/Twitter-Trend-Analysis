@@ -28,7 +28,6 @@ The goal is to uncover hidden relationships between trending hashtags, analyze u
 ##  Visualizations
 - **Histogram of Lift Values** – Shows strength and spread of associations.  
 - **Support vs Confidence Scatter Plot** – Helps identify the most reliable rules.  
-- **Cluster Plots (K-Means)** – Displays groups of related trends.  
 - **Word Clouds** – Highlights most frequent hashtags.
 
 ---
@@ -46,7 +45,6 @@ The goal is to uncover hidden relationships between trending hashtags, analyze u
 1. **Data Collection** – Gather Twitter data (hashtags, text, engagement metrics).  
 2. **Preprocessing** – Tokenize, clean, and filter hashtags or words.  
 3. **Association Rule Mining** – Apply Apriori and FP-Growth.  
-4. **Cluster Analysis** – Group similar trends using K-Means.  
 5. **Evaluation** – Compare algorithms based on speed, Lift, and rule quality.  
 6. **Visualization** – Generate insightful plots and charts.
 
